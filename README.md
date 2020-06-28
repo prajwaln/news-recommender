@@ -9,7 +9,7 @@ This concept has been implemented on a widely available news dataset on [kaggle]
 
 ## Environment Setup and Dependencies
 
-The entire project is written in Python Jupyter Notebook in [Azure ML studio](https://ml.azure.com/#) environment and required packages and dependencies are available in that. Any additional sownloads or installations are performed in the notebook.
+The entire project is written in Python Jupyter Notebook in [Azure ML studio](https://ml.azure.com/#) environment. All required packages and dependencies are provided by default. Any additional downloads or installations are performed in the notebook.
 
 Alternatively, a [requirements.txt](../blob/master/requirements.txt) file has been provided which can be used to setup a new environment.
 
