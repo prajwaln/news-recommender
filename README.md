@@ -3,7 +3,7 @@
 ###### Prajwal Rao | prajwal.rao@outlook.com.au | Project 1 (Tech Stream) | MSA 2020
 
 ## Description
-In this fast-changing and unprecendented times, there is something new happening almost everyday and it can sometimes be difficult to keep track of the news. To solve this problem, this module is designed to recommend news articles based on a user's reading history and also factor in various preferences including topics, source etc. - for a more personalised experience.
+In these fast-changing and unprecendented times, there is something new happening almost everyday and it can sometimes be difficult to keep track of the news. To solve this problem, this module is designed to recommend news articles based on a user's reading history and also factor in various preferences including topics, source etc. - for a more personalised experience.
 
 This concept has been implemented on a widely available news dataset on [kaggle](https://www.kaggle.com/rmisra/news-category-dataset) by [author](https://rishabhmisra.github.io/publications/). This [dataset](https://www.kaggle.com/rmisra/news-category-dataset) contains around 200k news headlines from the year 2012 to 2018 obtained from HuffPost. 
 
